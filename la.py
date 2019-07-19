@@ -39,18 +39,3 @@ def solve(A, b):
     #x = []
     return x.flatten()
 print( solve (A,b))
-
-"""print('==== A ====')
-printm(A)
-print('====b ====')
-printm()"""
-
-"""
-    A -solve(A,b)
-    B - matrix k,l
-    x- list of solution [x_1, x_2,..,x_n]
-    using Gauss Method
-    1.กำจัดจุดอ่อน elimination
-    2.แทนคำย้อนกลับ- back substitution
-    
-    """
